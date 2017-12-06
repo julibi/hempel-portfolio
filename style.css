@@ -23,7 +23,7 @@ body {
   border: 1px black solid;
 }
 
-.opening-wrapper > div, .blog-post, .single-post, footer.container-fluid {
+.opening-wrapper > div, .blog-post, .single-post, footer.container-fluid, .rezension-post {
   border: 1px black solid;
   margin: 1em;
   padding: 2em;
